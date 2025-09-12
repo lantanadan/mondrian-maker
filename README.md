@@ -4,7 +4,8 @@ Get the Game Here: https://store.steampowered.com/app/1087050/Mondrian__Plastic_
 <p>
 <hr>
 </p>
-![donuts](https://github.com/user-attachments/assets/a1e72d31-5481-431f-9bb7-e03c0541a6cb)
+
+![donuts](https://github.com/user-attachments/assets/b78f2fd1-4e1e-4356-b769-fe60c5d705aa)
 <br><b><a href ="https://github.com/lantanadan/mondrian-maker/blob/main/Donuts.mondrianlevel">Donuts (September 22, 2021):</a></b> Recreation of "[LPC] Foods" by bluecarrot16, Daniel Eddeland (daneeklu), Joshua Taylor, Richard Kettering (Jetrel), thekingphoenix, RedVoxel, and Molly "Cougarmint" Willits. <a>https://opengameart.org/content/lpc-food</a>
 
 
